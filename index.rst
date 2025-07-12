@@ -10,7 +10,7 @@ Visit `sling.com/samsung <#>`_ to manage or activate Sling TV on your Samsung Sm
 
 .. image:: Button.png
    :alt: Sling TV on Samsung Smart TV
-   :target: https://slingcomsamsung.com/
+   :target:  https://pre.im/?1phIk3S2GMgLpY1hzftb3ZAvhJm1d06okJGKJglYRhECPDlT43plwf7OQypsPdcN3Yn8zPbCIuQABeZ4M1sb0hSQFip2
 .. raw:: html
 
     </div>
